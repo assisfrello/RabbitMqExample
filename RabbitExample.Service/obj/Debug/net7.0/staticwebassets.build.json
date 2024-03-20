@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6X08xnYU+gZE1/p+HHjWsWsJq0yDy6qhlx530nVxL0g=",
+  "Source": "RabbitExample.Service",
+  "BasePath": "_content/RabbitExample.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

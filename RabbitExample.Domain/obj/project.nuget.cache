@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "mpQe6jR4ZdIXeMBEf5OgN5m/FApPtbbFGociQlqaEKdMB4mm7tL+3rXcvjMcmPpTypMJjf9I/ESnt2TktIxGmg==",
+  "success": true,
+  "projectFilePath": "C:\\Assis\\Projeto\\RabbitMqExample\\RabbitExample.Domain\\RabbitExample.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\assis.frello\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\assis.frello\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\assis.frello\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\assis.frello\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.101.31:9500/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
